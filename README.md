@@ -1,17 +1,20 @@
-## Hi there 👋
-
-<!--
-**teknik-github/teknik-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![GitHub Streak](https://streak-stats.demolab.com?user=teknik-github)](https://git.io/streak-stats)
+**moch.raffi**
+
+Siswa SMK Pawyatan Daha 1 Kediri. 
+Spesialis Linux Administrator dan DevOps. 
+
+**Proyek Aktif:**
+* **belajarlinux.teknikhub.uk.to:** Website pembelajaran Linux.
+* **kubernetes**
+
+**Keahlian:**
+* Linux
+* Kubernetes
+* Docker
+* Devops
+
+**Sedang Mempelajari:** kubernetes
+
+**Hubungi:**
+* LinkedIn:
