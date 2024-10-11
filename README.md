@@ -1,4 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=teknik-github)](https://git.io/streak-stats)
+[![Linkkedin](https://streak-stats.demolab.com?user=teknik-github&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=teknik-github&theme=tokyonight)](https://git.io/streak-stats)
 
 **moch.raffi**
 
@@ -16,6 +17,3 @@ Spesialis Linux Administrator dan DevOps.
 * Devops
 
 **Sedang Mempelajari:** kubernetes
-
-**Hubungi:**
-* LinkedIn:
