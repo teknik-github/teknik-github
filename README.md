@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/-moch.raffi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/moch-raffi)
+[![Linkedin](https://img.shields.io/badge/-moch.raffi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/moch-raffi)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=teknik-github&theme=tokyonight)](https://git.io/streak-stats)
