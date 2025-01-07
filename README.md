@@ -9,7 +9,7 @@ Siswa SMK Pawyatan Daha 1 Kediri.
 Spesialis Linux Administrator dan DevOps. 
 
 **Proyek Aktif:**
-* **belajarlinux.teknikhub.uk.to:** Website pembelajaran Linux.
+* **peceldev.my.id:** Website pembelajaran Linux.
 * **kubernetes**
 
 **Keahlian:**
